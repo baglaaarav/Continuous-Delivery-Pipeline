@@ -12,6 +12,7 @@
 
 ### Project Architecture:
 
+https://github.com/baglaaarav/Continuous-Delivery-Pipeline/blob/058c6ac28d99c11366da83b5d51e37c4a413e8b9/Diagram.png
 
 ### What I did:
 
